@@ -10,4 +10,4 @@
 This repository contains documentation about Radar COVID project.
 
 * [Análisis de Riesgos](./AARR.pdf).
-* [Análisis Evaluación de Impacto de Protección de Datos]()./EIPD.pdf).
+* [Análisis Evaluación de Impacto de Protección de Datos](./EIPD.pdf).
