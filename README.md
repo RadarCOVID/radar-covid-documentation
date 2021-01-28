@@ -9,5 +9,10 @@
 
 This repository contains documentation about Radar COVID project.
 
+* [Informe de conclusiones del proyecto Radar COVID en La Gomera](./28-01-2020-InformeRadarCOVID.pdf).
 * [Análisis de Riesgos](./AARR.pdf).
 * [Análisis Evaluación de Impacto de Protección de Datos](./EIPD.pdf).
+
+## Articles
+
+* [Artículo científico sobre el impacto epidemiológico del rastreo de contactos digitales con Radar COVID publicado en Nature Communications](https://www.nature.com/articles/s41467-020-20817-6).
